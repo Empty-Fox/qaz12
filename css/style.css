@@ -376,7 +376,7 @@ b {
 }
 .cultureCode_section_blocks_one.oneH .cultureCode_section_blocks_one_img img {
   margin-top: -120px;
-  margin-left: -280px;
+  margin-left: -150%;
 }
 .cultureCode_section_blocks_one>img {
   position: absolute;

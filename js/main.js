@@ -79,7 +79,7 @@ window.onload = function() {
   $.fn.transformHeroes = function() {
       //Variables
       var perspective = '500px',
-      delta = 20,
+      delta = 100,
       width = this.width(),
       height = this.height(),
       midWidth = width / 2,
