@@ -21,7 +21,7 @@ if ($(window).width() < 768) {
   $(".menu-items a").on("click", (function () {
     $('#checkbox').trigger('click'); 
     $('#checkbox').removeClass('active1');
-    $(".navbar").animate({height:64},500)
+    $(".navbar").animate({height:64},0)
  }
  
  ))
